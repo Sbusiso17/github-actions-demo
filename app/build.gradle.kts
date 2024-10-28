@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.androidfactory.githubactionsdemo"
+    namespace = "com.example.flutter_application_1"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.androidfactory.githubactionsdemo"
+        applicationId = "com.example.flutter_application_1"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
