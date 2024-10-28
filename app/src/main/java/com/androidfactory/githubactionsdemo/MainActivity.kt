@@ -1,4 +1,4 @@
-package com.androidfactory.githubactionsdemo
+package com.example.flutter_application_1
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
