@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.androidfactory.githubactionsdemo", appContext.packageName)
+        assertEquals("com.example.flutter_application_1", appContext.packageName)
     }
 }
